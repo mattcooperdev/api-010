@@ -28,4 +28,5 @@ function displayStatus(data) {
     document.getElementById('results-content').innerHTML = results;
 
     resutlsModal.show
-}
+} 
+
